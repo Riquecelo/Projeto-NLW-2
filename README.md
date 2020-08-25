@@ -9,5 +9,5 @@
 
 ![](https://github.com/Riquecelo/Projeto-NlW-2/blob/master/images/icons/rocket.svg) [confira o resultado clicando aqui](https://riquecelo.github.io/Projeto-NlW-2/)
 
-Minha primeira participação
+Minha primeira participação<br>
 Finaliado apenas o front end
