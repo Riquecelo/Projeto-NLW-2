@@ -7,7 +7,7 @@
  
 ![](https://github.com/Riquecelo/Projeto-NlW-2/blob/master/docExtras/Capturar%20-%20NLW.PNG)
 
-![](https://github.com/Riquecelo/Projeto-NlW-2/blob/master/images/icons/rocket.svg) [confira o resultado clicando aqui](https://riquecelo.github.io/Projeto-NlW-2/)
+![](https://github.com/Riquecelo/Projeto-NlW-2/blob/master/images/icons/rocket.svg) [confira o resultado clicando aqui](https://riquecelo.github.io/Projeto-NLW-2/index.html)
 
 Minha primeira participação<br>
 Finalizado apenas o front end
